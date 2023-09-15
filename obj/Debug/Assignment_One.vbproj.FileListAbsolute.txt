@@ -1,0 +1,11 @@
+C:\Users\niico\source\repos\Assignment_One\bin\Debug\Assignment_One.exe.config
+C:\Users\niico\source\repos\Assignment_One\bin\Debug\Assignment_One.exe
+C:\Users\niico\source\repos\Assignment_One\bin\Debug\Assignment_One.pdb
+C:\Users\niico\source\repos\Assignment_One\bin\Debug\Assignment_One.xml
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.vbproj.AssemblyReference.cache
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.Resources.resources
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.vbproj.GenerateResource.cache
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.vbproj.CoreCompileInputs.cache
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.exe
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.xml
+C:\Users\niico\source\repos\Assignment_One\obj\Debug\Assignment_One.pdb
